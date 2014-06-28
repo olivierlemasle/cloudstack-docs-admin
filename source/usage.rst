@@ -863,18 +863,18 @@ the following whether in HTTP or HTTPS:
       <count>1816</count>
       <usagerecord>
          <account>user5</account>
-         <accountid>10004</accountid>
-         <domainid>1</domainid>
-         <zoneid>1</zoneid>
+         <accountid>3dd51fda-f793-11e3-a236-0050569ed71c</accountid>
+         <domainid>257d21da-f793-11e3-a236-0050569ed71c</domainid>
+         <zoneid>3ed39840-5a0a-480a-bcfa-e4d8ce2fc9af</zoneid>
          <description>i-3-4-WC running time (ServiceOffering: 1) (Template: 3)</description>
          <usage>2.95288 Hrs</usage>
          <usagetype>1</usagetype>
          <rawusage>2.95288</rawusage>
-         <virtualmachineid>4</virtualmachineid>
+         <virtualmachineid>2274e86c-5c12-4ef6-80a2-de69f3126055</virtualmachineid>
          <name>i-3-4-WC</name>
-         <offeringid>1</offeringid>
-         <templateid>3</templateid>
-         <usageid>245554</usageid>
+         <offeringid>b599da4e-a98e-4f19-bde9-2a329f65ede2</offeringid>
+         <templateid>2581f052-f793-11e3-a236-0050569ed71c</templateid>
+         <usageid>2274e86c-5c12-4ef6-80a2-de69f3126055</usageid>
          <type>XenServer</type>
          <startdate>2009-09-15T00:00:00-0700</startdate>
          <enddate>2009-09-18T16:14:26-0700</enddate>
