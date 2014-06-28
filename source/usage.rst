@@ -778,7 +778,7 @@ The following table shows all usage types.
 | 4                | NETWORK\_BYTES\_SENT              | Tracks the total      |
 |                  |                                   | number of bytes sent  |
 |                  |                                   | by all the VMs for an |
-|                  |                                   | account. Cloud.com    |
+|                  |                                   | account. CloudStack   |
 |                  |                                   | does not currently    |
 |                  |                                   | track network traffic |
 |                  |                                   | per VM.               |
@@ -787,7 +787,7 @@ The following table shows all usage types.
 |                  |                                   | number of bytes       |
 |                  |                                   | received by all the   |
 |                  |                                   | VMs for an account.   |
-|                  |                                   | Cloud.com does not    |
+|                  |                                   | CloudStack does not   |
 |                  |                                   | currently track       |
 |                  |                                   | network traffic per   |
 |                  |                                   | VM.                   |
@@ -828,7 +828,7 @@ The following table shows all usage types.
 |                  |                                   | policy has been       |
 |                  |                                   | created to the time   |
 |                  |                                   | it has been removed.  |
-|                  |                                   | Cloud.com does not    |
+|                  |                                   | CloudStack does not   |
 |                  |                                   | track whether a VM    |
 |                  |                                   | has been assigned to  |
 |                  |                                   | a policy.             |
